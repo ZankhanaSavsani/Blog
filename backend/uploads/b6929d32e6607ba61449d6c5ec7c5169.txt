@@ -1,0 +1,12 @@
+for push changes in repository
+
+cd folder
+git add .
+git commit -m "Add feature X or fix issue Y"
+git push
+
+
+
+if we don't want to make folder in folder while creating react app we use command 
+: npx create-react-app ./
+
